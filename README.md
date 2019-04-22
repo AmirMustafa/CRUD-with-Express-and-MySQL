@@ -1,7 +1,6 @@
 # CRUD-with-Express-and-MySQL
 
-This project is built with Node JS (with Express JS) and SQL. <br>
-CRUD is done with this API- Create, Read, Update and Delete
+This project is built with Node JS (with Express JS) and SQL. CRUD is done with this API- Create, Read, Update and Delete
 
 ## Installation
 
