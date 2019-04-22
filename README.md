@@ -8,7 +8,7 @@ This project is built with Node JS (with Express JS) and SQL. CRUD is done with 
 2. Start the Node Server i.e. nodemon app.js or node app.js <br>
 3. Install Postman for executing CRUD operation
 4. You need to first generate the token as shown in the screenshot below
-5. Now for all operation you need to pass: Authorization: brearer <your_generated_token> as shown in the screenshots below. Without passing token it will show Unauthoized access 
+5. Now for all operation you need to pass: Authorization: brearer <your_generated_token> as shown in the screenshots below. Without passing token it will show Unauthorized access 
 6. I have added Postman collection file for all requests, please follow it step by step
 
 ## Screenshots
@@ -39,7 +39,7 @@ This project is built with Node JS (with Express JS) and SQL. CRUD is done with 
 
 ![If any request passed without token](https://user-images.githubusercontent.com/15896579/56477206-a8342980-64c0-11e9-9970-2d143332f642.png?raw=true "If any request passed without token")
 
-![Deleting single data by passing ID](https://user-images.githubusercontent.com/15896579/56477206-a8342980-64c0-11e9-9970-2d143332f642.png?raw=true "Deleting single data by passing ID")
+![Deleting single data by passing ID](https://user-images.githubusercontent.com/15896579/56477208-abc7b080-64c0-11e9-9a69-7db61b426c4a.png?raw=true "Deleting single data by passing ID")
 
 ![Checking deleting data in DB](https://user-images.githubusercontent.com/15896579/56477212-b1bd9180-64c0-11e9-9f28-43901be487b2.png?raw=true "Checking deleting data in DB")
 
